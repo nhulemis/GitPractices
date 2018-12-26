@@ -1,2 +1,2 @@
-# GitPractices
-bài tập thực hành với git 
+# practice1
+Only for practices
